@@ -9,7 +9,7 @@
  * Version:     0.0.1
  * Author:      Vikrant
  * Author URI:  http://github.com/0xcrypto
- * License: 		Public Domain
+ * License: 	Public Domain
  *
  */
 
