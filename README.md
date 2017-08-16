@@ -5,3 +5,6 @@ A simple wp plugin to list all the shortcodes available.
 ```
 $ wp shortcode list
 ```
+# Credits
+Originally by @[paulund](https://github.com/paulund/view_all_shortcodes_plugin) 
+
