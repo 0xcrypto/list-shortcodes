@@ -7,9 +7,9 @@
  * Plugin URI:  https://github.com/0xcrypto/list-shortcodes
  * Description: List all available shortcodes.
  * Version:     0.0.1
- * Author:      Vikrant
+ * Author:      Vikrant, Originally by Paul Underwood
  * Author URI:  http://github.com/0xcrypto
- * License: 	Public Domain
+ * License: 	GNU GPLv2.0
  *
  */
 
