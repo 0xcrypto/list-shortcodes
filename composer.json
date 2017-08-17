@@ -1,0 +1,12 @@
+{
+    "name": "0xcrypto/list-shortcodes",
+    "description": "A wp-cli command and wordpress plugin to list all the shortcodes available.",
+    "license": "GNU GPLv2",
+    "authors": [
+        {
+            "name": "0xcrypto",
+            "email": "vikrantcode@gmail.com"
+        }
+    ],
+    "require": {}
+}
