@@ -4,8 +4,9 @@
 Quick links: [Using](#using) | [Installing](#installing) | [Contributing](#contributing) | [Support](#support)
 
 ## Using
+WP CLI command:
 
-    wp shortcode list
+    $ wp shortcode list
 
 ## Installing
 
@@ -13,11 +14,23 @@ Installing this package requires WP-CLI v1.1.0 or greater. Update to the latest 
 
 Once you've done so, you can install this package with:
 
-    wp package install 0xcrypto/list-shortcodes
+    $ wp package install 0xcrypto/list-shortcodes
 
 or,
 
-    wp package install git@github.com:0xcrypto/list-shortcodes.git
+    $ wp package install git@github.com:0xcrypto/list-shortcodes.git
+
+### WordPress Plugin
+
+WordPress Plugin is also available. To install the plugin instead,
+
+Using WP CLI
+
+    $ wp plugin install https://github.com/0xcrypto/list-shortcodes/archive/master.zip
+
+Using Git
+
+    $ git clone https://github.com/0xcrypto/list-shortcodes wp-content/plugins/list-shortcodes
 
 ## Contributing
 
