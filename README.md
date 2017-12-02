@@ -1,6 +1,6 @@
 0xcrypto/list-shortcodes
 ========================
-
+Originally by @[paulund](https://github.com/paulund/view_all_shortcodes_plugin) 
 Quick links: [Using](#using) | [Installing](#installing) | [Contributing](#contributing) | [Support](#support)
 
 ## Using
