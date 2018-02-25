@@ -2,7 +2,7 @@
     "name": "0xcrypto/list-shortcodes",
     "description": "A WP CLI command to list the available shortcodes",
     "type": "project",
-    "license": "GNU GPLv2",
+    "license": "GPL-2.0-or-later",
     "authors": [
         {
             "name": "0xcrypto",
